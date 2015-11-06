@@ -1,6 +1,6 @@
 # The scripts plot<n>.R need to be located in the  folder that contains the data file household_power_consumption.txt.
 
-# The plot<n>.png files are created in the same folder as the script.
+# The plot<n>.png files are created in the same folder as the script<n>.
 
 
 
